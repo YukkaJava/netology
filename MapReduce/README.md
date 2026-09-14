@@ -57,6 +57,6 @@ HDFS
 - mapper.py - скрипт Map-фазы. 
 - reducer.py - скрипт Reduce-фазы. 
 - run.sh - скрипт запуска задачи.
-- top10.tsv — топ-10. 
+- top10.tsv - топ10. 
 - yarn.png - скриншот работы YARN. 
 - hdfs.png - скриншот вывода HDFS.
